@@ -1,0 +1,3115 @@
+[
+  {
+    "brand": "ACwO",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0DTHPN47Z",
+        "name": "ACwO Dwots Bold Wireless in Ear Earbuds|India'S 1St Smart 1.83\" True HD Touch Display|ANC (32Db)|4 ENC Mics for Clear Calls|Find My Earphone|3D Spatial Sound|Quick Charge |60Hrs Playtime (Bold Black)",
+        "price_inr": 2499,
+        "rating": 3.7,
+        "review_count": 178,
+        "features": {
+          "battery_life": "60 hours",
+          "noise_cancellation": "Yes",
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Active Noise Cancellation for immersive listening"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "AROMA",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0GQZBDH3Y",
+        "name": "AROMA TWS1 Pulse V5.4 True Wireless Earbuds – Bluetooth Headphones with up to 60H Playtime | ENC | Fast Charging | Heavy Bass | Shiny Black",
+        "price_inr": 499,
+        "rating": 5.0,
+        "review_count": 4,
+        "features": {
+          "battery_life": "60 hours",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Fast charging — minimal downtime between uses",
+          "Highly rated 5.0/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0GQZ8WQN9",
+        "name": "AROMA NB124 Cosmo Wireless Neckband Bluetooth Headphones – up to 100H Playtime | ENC | Voice Changer | Fast Charging | Midnight Blue",
+        "price_inr": 299,
+        "rating": 4.6,
+        "review_count": 3,
+        "features": {
+          "battery_life": "100 hours",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 100H battery — great for all-day use",
+          "Fast charging — minimal downtime between uses",
+          "Highly rated 4.6/5 by customers"
+        ]
+      }
+    ],
+    "total_products": 2
+  },
+  {
+    "brand": "AlakhDM",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GX1SW3TJ",
+        "name": "AlakhDM Wireless Earbuds Bluetooth 5.3 TWS Earphones Full Touch Control Headphones Built-in Microphone Premium Sound Quality Ensure Fast Stable & Connection With Type C Charger",
+        "price_inr": 349,
+        "rating": 5.0,
+        "review_count": 3,
+        "features": {
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Highly rated 5.0/5 by customers"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Apritex",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GWZQ6C54",
+        "name": "Apritex Wireless Bluetooth 5.3 TWS Earbuds with Charging Case, Touch Control, Deep Bass Stereo Sound, Noise Reduction, Type-C Fast Charging.",
+        "price_inr": 299,
+        "rating": 5.0,
+        "review_count": 1,
+        "features": {
+          "bluetooth_version": "v5.3",
+          "fast_charging": true,
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Highly rated 5.0/5 by customers"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Bluetooth",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GPJN68TV",
+        "name": "Bluetooth Ear Buds with Fast Pairing Portable Charging Case Noise Isolation Mic for Calling Music Gaming (Design 299)",
+        "price_inr": 299,
+        "rating": 4.0,
+        "review_count": 21,
+        "features": {
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Well-rated at 4.0/5 stars"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Boat",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0BW8TXJJ2",
+        "name": "Boat Nirvana Ion, 120HRS Battery, Crystal Bionic Sound w/Dual EQ Modes, 4Mics ENx, App Support, Low Latency, IPX4, v.5.2 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Charcoal Black)",
+        "price_inr": 1599,
+        "rating": 4.1,
+        "review_count": 13140,
+        "features": {
+          "battery_life": "120 hours",
+          "microphones": "4 mics",
+          "water_resistance": "IP4",
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 120H battery — great for all-day use",
+          "IP4 water resistance — safe for workouts and rain",
+          "4-mic array with ENC for crystal-clear calls",
+          "Well-rated at 4.1/5 stars",
+          "Trusted by 13,140+ buyers"
+        ]
+      },
+      {
+        "asin": "B0D1V8CKFQ",
+        "name": "Boat Airdopes 800, Dolby Audio, Adaptive EQ by Mimi, 4Mics AI ENx, App Support, Fast Charge, IPX5, v5.3 Bluetooth TWS in Ear Earbuds Wireless Earphones with mic (Interstellar White)",
+        "price_inr": 1699,
+        "rating": 4.1,
+        "review_count": 8908,
+        "features": {
+          "microphones": "4 mics",
+          "water_resistance": "IP5",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "4-mic array with ENC for crystal-clear calls",
+          "Well-rated at 4.1/5 stars",
+          "Popular choice with 8,908+ reviews"
+        ]
+      },
+      {
+        "asin": "B08TV2P1N8",
+        "name": "Boat Rockerz 255 Pro+, 60HRS Battery, Fast Charge, IPX7, Dual Pairing, Low Latency, Magnetic Earbuds, in Ear Bluetooth Neckband, Wireless with Mic Earphones (Active Black)",
+        "price_inr": 1049,
+        "rating": 4.0,
+        "review_count": 148496,
+        "features": {
+          "battery_life": "60 hours",
+          "water_resistance": "IP7",
+          "fast_charging": true,
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Fast charging — minimal downtime between uses",
+          "IP7 water resistance — safe for workouts and rain",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Well-rated at 4.0/5 stars",
+          "Trusted by 148,496+ buyers"
+        ]
+      },
+      {
+        "asin": "B0F7Y54PJX",
+        "name": "Boat Rockerz 113, 40H Battery, Dual Pair, Fast Charge, ENx Tech, Stream Ad Free Music via App Support, Magnetic Buds, Bluetooth Neckband, Wireless with Mic in Ear Earphones (Active Black)",
+        "price_inr": 899,
+        "rating": 4.0,
+        "review_count": 9035,
+        "features": {
+          "battery_life": "40 hours",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 9,035+ reviews"
+        ]
+      },
+      {
+        "asin": "B0CP3N5F5B",
+        "name": "Boat Rockerz 235 Pro Wireless Bluetooth Neckband in Ear Earphone, Upto 20 hrs of Playtime, Beast Mode, Low Latency, IPX5 Water & Sweat Resistance, ENx Technology, Bluetooth v5.2(Active Black)",
+        "price_inr": 999,
+        "rating": 4.0,
+        "review_count": 2653,
+        "features": {
+          "battery_life": "20 hours",
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.2",
+          "water_resistance": "IP5",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Decent 20H playtime for daily commutes",
+          "Active Noise Cancellation for immersive listening",
+          "IP5 water resistance — safe for workouts and rain",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 2,653+ reviews"
+        ]
+      },
+      {
+        "asin": "B0D3LBFX1W",
+        "name": "Boat Airdopes 300, Cinematic Spatial Audio, 50H Battery, 4Mic AI ENx, Fast Charge, App Support, Low Latency, IPX4, v5.3 Bluetooth Earbuds, TWS in Ear Earbuds Wireless Earphones with mic (Purple Haze)",
+        "price_inr": 1399,
+        "rating": 4.0,
+        "review_count": 9418,
+        "features": {
+          "battery_life": "50 hours",
+          "microphones": "4 mics",
+          "water_resistance": "IP4",
+          "fast_charging": true,
+          "spatial_audio": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "Spatial/3D audio for an immersive sound experience",
+          "IP4 water resistance — safe for workouts and rain",
+          "4-mic array with ENC for crystal-clear calls",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 9,418+ reviews"
+        ]
+      },
+      {
+        "asin": "B0FHHL4GC3",
+        "name": "Boat Rockerz Prime 255Z, Spatial Audio,ENx Tech, Dual Pair, 50H Battery, Stream Ad Free Music via App Support, Magnetic Buds, Bluetooth Neckband, Wireless with Mic Earphones (Onyx Black)",
+        "price_inr": 1199,
+        "rating": 4.0,
+        "review_count": 66238,
+        "features": {
+          "battery_life": "50 hours",
+          "spatial_audio": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Spatial/3D audio for an immersive sound experience",
+          "Well-rated at 4.0/5 stars",
+          "Trusted by 66,238+ buyers"
+        ]
+      },
+      {
+        "asin": "B0DGTVRH97",
+        "name": "Boat Nirvana Crystl, Transparent Case,Spatial Audio, ANC(~32dB), 100Hrs Battery,4Mics ENx,App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Quantum Black)",
+        "price_inr": 1899,
+        "rating": 4.0,
+        "review_count": 1817,
+        "features": {
+          "battery_life": "100 hours",
+          "noise_cancellation": "Yes",
+          "microphones": "4 mics",
+          "spatial_audio": true
+        },
+        "why_buy": [
+          "Exceptional 100H battery — great for all-day use",
+          "Active Noise Cancellation for immersive listening",
+          "Spatial/3D audio for an immersive sound experience",
+          "4-mic array with ENC for crystal-clear calls",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 1,817+ reviews"
+        ]
+      },
+      {
+        "asin": "B0FC2YFSN4",
+        "name": "Boat Airdopes 219, 4Mics ENx, 40H Battery, Best in Segment for Calling, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Forest Sage)",
+        "price_inr": 1099,
+        "rating": 3.9,
+        "review_count": 4363,
+        "features": {
+          "battery_life": "40 hours",
+          "microphones": "4 mics"
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "4-mic array with ENC for crystal-clear calls",
+          "Popular choice with 4,363+ reviews"
+        ]
+      },
+      {
+        "asin": "B0FC2Z19RX",
+        "name": "Boat Airdopes 219, 4Mics ENx, 40H Battery, Best in Segment for Calling, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Ivory Mist)",
+        "price_inr": 1099,
+        "rating": 3.9,
+        "review_count": 4363,
+        "features": {
+          "battery_life": "40 hours",
+          "microphones": "4 mics"
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "4-mic array with ENC for crystal-clear calls",
+          "Popular choice with 4,363+ reviews"
+        ]
+      },
+      {
+        "asin": "B0CC8SBFFR",
+        "name": "Boat Rockerz 245 v2 Pro, 30h Battery, ENx Tech, Fast Charge, Dual Pairing, Magnetic Buds, USB Type-C Interface & IPX5, Bluetooth in Ear Neckband, Wireless with Mic Earphones (Teal Green)",
+        "price_inr": 999,
+        "rating": 3.9,
+        "review_count": 121282,
+        "features": {
+          "battery_life": "30 hours",
+          "water_resistance": "IP5",
+          "fast_charging": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Decent 30H playtime for daily commutes",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Trusted by 121,282+ buyers"
+        ]
+      },
+      {
+        "asin": "B0F8BVYRWS",
+        "name": "Boat Airdopes Prime 701 ANC, 46dB Hybrid ANC, 50Hr Battery, Real Spatial Audio,Multidevice Connect,App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Obsidian Black)",
+        "price_inr": 1999,
+        "rating": 3.9,
+        "review_count": 2924,
+        "features": {
+          "battery_life": "50 hours",
+          "noise_cancellation": "46db hybrid anc",
+          "spatial_audio": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Active Noise Cancellation (46db hybrid anc) blocks out distractions",
+          "Spatial/3D audio for an immersive sound experience",
+          "Popular choice with 2,924+ reviews"
+        ]
+      },
+      {
+        "asin": "B0DPWJYQK1",
+        "name": "Boat Airdopes 111v2, Premium Leather Finish, 4Mics ENx, 50HRS Battery, 13mm Drivers, Fast Charge, Dual Pair, v5.4 Bluetooth TWS in Ear Earbuds Wireless Earphones with mic (Classic Black)",
+        "price_inr": 1299,
+        "rating": 3.9,
+        "review_count": 10682,
+        "features": {
+          "battery_life": "50 hours",
+          "driver_size": "13mm",
+          "microphones": "4 mics",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "4-mic array with ENC for crystal-clear calls",
+          "13mm driver for rich, detailed sound",
+          "Trusted by 10,682+ buyers"
+        ]
+      },
+      {
+        "asin": "B0DXP8JM1M",
+        "name": "Boat Nirvana Zenith Pro, 50dB Hybrid Adaptive ANC, Spatial Audio, Hi-Res Audio LDAC, 6Mics AI-ENx, 80 Hrs Battery, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Crimson Red)",
+        "price_inr": 2999,
+        "rating": 3.9,
+        "review_count": 1503,
+        "features": {
+          "battery_life": "80 hours",
+          "noise_cancellation": "50db hybrid adaptive anc",
+          "microphones": "6 mics",
+          "spatial_audio": true,
+          "hi_res_audio": true
+        },
+        "why_buy": [
+          "Exceptional 80H battery — great for all-day use",
+          "Active Noise Cancellation (50db hybrid adaptive anc) blocks out distractions",
+          "Spatial/3D audio for an immersive sound experience",
+          "Hi-Res audio (LDAC/LHDC) for studio-quality sound",
+          "6-mic array with ENC for crystal-clear calls",
+          "Popular choice with 1,503+ reviews"
+        ]
+      },
+      {
+        "asin": "B0C411BWXD",
+        "name": "Boat Airdopes Joy, 35Hrs Battery, Fast Charge, IWP Tech, Low Latency, 2Mic ENx, Type-C Port, v5.3 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic(Dark Cyan)",
+        "price_inr": 999,
+        "rating": 3.8,
+        "review_count": 8765,
+        "features": {
+          "battery_life": "35 hours",
+          "microphones": "2 mics",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Decent 35H playtime for daily commutes",
+          "Fast charging — minimal downtime between uses",
+          "Built-in 2 mics for hands-free calling",
+          "Popular choice with 8,765+ reviews"
+        ]
+      },
+      {
+        "asin": "B0FPLP7SMZ",
+        "name": "Boat Airdopes 131 Gen 2, 13mm Drivers, 70H Battery, ENx Tech, Beast Mode 45 ms Low Latency, ASAP Charge, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Carbon Black)",
+        "price_inr": 999,
+        "rating": 3.8,
+        "review_count": 5632,
+        "features": {
+          "battery_life": "70 hours",
+          "driver_size": "13mm",
+          "low_latency": "45ms",
+          "fast_charging": true,
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Exceptional 70H battery — great for all-day use",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "13mm driver for rich, detailed sound",
+          "Popular choice with 5,632+ reviews"
+        ]
+      },
+      {
+        "asin": "B0G48KJ7LJ",
+        "name": "Boat Airdopes 212, 50H Battery, ENx Tech, Beast Mode, ASAP Charge, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Ivory)",
+        "price_inr": 849,
+        "rating": 3.8,
+        "review_count": 67,
+        "features": {
+          "battery_life": "50 hours",
+          "fast_charging": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Fast charging — minimal downtime between uses"
+        ]
+      },
+      {
+        "asin": "B0G48M3KXD",
+        "name": "Boat Rockerz 200, 40H Battery, Signature Sound, ENx Tech, Dual Pairing, 60 ms Low Latency, IPX5, ASAP Charge, Magnetic Buds, Bluetooth Neckband, Wireless with Mic Earphones (Active Black)",
+        "price_inr": 799,
+        "rating": 3.8,
+        "review_count": 46,
+        "features": {
+          "battery_life": "40 hours",
+          "water_resistance": "IP5",
+          "low_latency": "60ms",
+          "fast_charging": true,
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "Multipoint connection — pair with two devices simultaneously"
+        ]
+      },
+      {
+        "asin": "B0DZXX6SKP",
+        "name": "Boat Airdopes Plus 311, Glass Design, ENx Tech, Fast Charge, 50 Hrs Battery, Stream Ad Free Music via App Support Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Crimson Red)",
+        "price_inr": 999,
+        "rating": 3.7,
+        "review_count": 5344,
+        "features": {
+          "battery_life": "50 hours",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "Popular choice with 5,344+ reviews"
+        ]
+      },
+      {
+        "asin": "B0DZXT72RY",
+        "name": "Boat Airdopes Plus 311, Glass Design, ENx Tech, Fast Charge, 50 Hrs Battery, Stream Ad Free Music via App Support Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Ash Grey)",
+        "price_inr": 999,
+        "rating": 3.7,
+        "review_count": 5344,
+        "features": {
+          "battery_life": "50 hours",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "Popular choice with 5,344+ reviews"
+        ]
+      }
+    ],
+    "total_products": 20
+  },
+  {
+    "brand": "Bouncefit",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0F4NDZ2VC",
+        "name": "Bouncefit Bluetooth Wireless Mangentic On/Off Neckband, 40 Hours Continuous Playback Battery, Fast Charge, IPX7, Low Latency, Active Noise Cancellation, Earbuds with Mic Earphones (Black)",
+        "price_inr": 346,
+        "rating": 3.5,
+        "review_count": 401,
+        "features": {
+          "battery_life": "40 hours",
+          "noise_cancellation": "Yes",
+          "water_resistance": "IP7",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Active Noise Cancellation for immersive listening",
+          "Fast charging — minimal downtime between uses",
+          "IP7 water resistance — safe for workouts and rain"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Deeliance",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0GF29H2SZ",
+        "name": "Deeliance Wireless Earbuds Bluetooth 5.1 TWS Earphones Full Touch Control Headphones Built-in Microphone Immersive Sound Quality Ensure Fast Stable & Connection Smart LED Headset Sports Bud",
+        "price_inr": 279,
+        "rating": 5.0,
+        "review_count": 1,
+        "features": {
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.1",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Active Noise Cancellation for immersive listening",
+          "Highly rated 5.0/5 by customers"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Drumstone",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0G62TWV4D",
+        "name": "Drumstone TopRated 𝟏𝟓𝐘𝐫 𝐖𝐚𝐫𝐫𝐚𝐧𝐭𝐲 Bluetooth Noise Canceling Earpiece with Mic Wireless Headset for Calls & Music for Android & iOS Devices Earphone | Ideal Gift for Professionals",
+        "price_inr": 1449,
+        "rating": 5.0,
+        "review_count": 3,
+        "features": {
+          "noise_cancellation": "Yes"
+        },
+        "why_buy": [
+          "Active Noise Cancellation for immersive listening",
+          "Highly rated 5.0/5 by customers"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "EDYELL",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0D2PZB9M3",
+        "name": "EDYELL Bluetooth in Ear Earphones with Earhooks, Wireless Earbuds with Noise Cancelling Mic, 50H Playback, BT5.3 Headphones Touch Control, IPX5 Waterproof Fitness Headset for Sports Running,V5",
+        "price_inr": 1899,
+        "rating": 3.9,
+        "review_count": 552,
+        "features": {
+          "battery_life": "50 hours",
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.3",
+          "water_resistance": "IP5",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Active Noise Cancellation for immersive listening",
+          "IP5 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v5.3 for stable, efficient connection"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Fire-Boltt",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0FVS5PRCH",
+        "name": "Fire-Boltt Aero TWS Earbuds Custom EQ, Wireless Bluetooth 5.4, Music & App Support, 50H Playtime, Fast Charging Case, 50ms Low Latency for Gaming, Touch Controls, IPX4 Waterproof, Clear Calls - Blue",
+        "price_inr": 699,
+        "rating": 3.8,
+        "review_count": 9306,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.4",
+          "water_resistance": "IP4",
+          "low_latency": "50ms",
+          "fast_charging": true,
+          "enc": true,
+          "touch_controls": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Ultra-low 50ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "IP4 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Popular choice with 9,306+ reviews"
+        ]
+      },
+      {
+        "asin": "B0GHQHX1RK",
+        "name": "Fire-Boltt Newly Launched Aero Fit TWS Earbuds with Custom EQ, Bluetooth 5.4 Wireless Earphones, 50H Playtime, Fast Charging Case, 50ms Low Latency Gaming & Touch Controls Black",
+        "price_inr": 849,
+        "rating": 3.8,
+        "review_count": 189,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.4",
+          "low_latency": "50ms",
+          "fast_charging": true,
+          "enc": true,
+          "touch_controls": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Ultra-low 50ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.4 for stable, efficient connection"
+        ]
+      },
+      {
+        "asin": "B0GHQYJ6DX",
+        "name": "Fire-Boltt Newly Launched Aero Drift TWS Earbuds Custom EQ Wireless Bluetooth 5.4 Music & App Support 50H Playtime Battery Display Fast Charging Case 50ms Low Latency Touch Controls White",
+        "price_inr": 899,
+        "rating": 3.8,
+        "review_count": 1661,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.4",
+          "low_latency": "50ms",
+          "fast_charging": true,
+          "enc": true,
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Ultra-low 50ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Popular choice with 1,661+ reviews"
+        ]
+      },
+      {
+        "asin": "B0GHQHZRJT",
+        "name": "Fire-Boltt Aero Clip OWS Earbud w/Clip-On Fit, Custom EQ, Wireless Bluetooth TWS,50H Playtime, 50ms Low Latency, Display on Charging Case, App Support, Touch Controls, Gaming & Music - Midnight Black",
+        "price_inr": 1499,
+        "rating": 3.7,
+        "review_count": 114,
+        "features": {
+          "battery_life": "50 hours",
+          "low_latency": "50ms",
+          "enc": true,
+          "touch_controls": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Ultra-low 50ms latency — ideal for gaming and video"
+        ]
+      }
+    ],
+    "total_products": 4
+  },
+  {
+    "brand": "Fire-BolttAero",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0GHQD8KP2",
+        "name": "Fire-BolttAero Shadow TWS Earbuds Custom EQ, RGB Lights, Wireless Bluetooth 5.4, Music & App Support, 50H Playtime, Fast Charging Case, 50ms Low Latency for Gaming, Touch Controls - Flame Red",
+        "price_inr": 799,
+        "rating": 4.2,
+        "review_count": 80,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.4",
+          "low_latency": "50ms",
+          "fast_charging": true,
+          "enc": true,
+          "touch_controls": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Ultra-low 50ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Highly rated 4.2/5 by customers"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "GOBOULT",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0GSQXFNMF",
+        "name": "GOBOULT Y1 v2.0 Ear Buds Wireless with 60H Playtime, Zen Quad Mic ENC, 45ms Low Latency, Touch Contorl, Dual Device Pairing, Bluetooth 6.0, 13mm Bass Driver Earbud TWS Wireless Earphone (Blue Teal)",
+        "price_inr": 1199,
+        "rating": 4.1,
+        "review_count": 98,
+        "features": {
+          "battery_life": "60 hours",
+          "bluetooth_version": "v6.0",
+          "low_latency": "45ms",
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Latest Bluetooth v6.0 for stable, efficient connection",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Well-rated at 4.1/5 stars"
+        ]
+      },
+      {
+        "asin": "B0CQ4NJB5G",
+        "name": "GOBOULT Astra Truly Wireless in Ear Earbuds with 48H Playtime, Built-in App Support, 45ms Low Latency Gaming, 4 Mics ENC, Breathing LEDs,13mm Bass Drivers, TWS Ear Buds (Smoky Metal)",
+        "price_inr": 1299,
+        "rating": 4.1,
+        "review_count": 795,
+        "features": {
+          "battery_life": "48 hours",
+          "microphones": "4 mics",
+          "low_latency": "45ms",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 48H battery life for extended listening",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "4-mic array with ENC for crystal-clear calls",
+          "Well-rated at 4.1/5 stars"
+        ]
+      },
+      {
+        "asin": "B0GM113PJQ",
+        "name": "GOBOULT Mustang Sprint in Ear Earbuds with 60H Playtime, Amp App Support, 32dB Active Noise Cancellation, Quad Mic ENC, Dual Device Pairing, 10mm Driver, BTv 6.0 Wireless (Turbo Yellow)",
+        "price_inr": 1799,
+        "rating": 4.1,
+        "review_count": 277,
+        "features": {
+          "battery_life": "60 hours",
+          "noise_cancellation": "Yes",
+          "driver_size": "10mm",
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Active Noise Cancellation for immersive listening",
+          "10mm driver for rich, detailed sound",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Well-rated at 4.1/5 stars"
+        ]
+      },
+      {
+        "asin": "B0GK1GSRLJ",
+        "name": "GOBOULT Mustang Torq Wireless in Ear Earbuds with 60H Playtime, App Support, Quad Mic ENC, 45ms Low Latency, 13mm Driver, Breathing LEDs, Made in India Ear Buds Wireless (Green)",
+        "price_inr": 1799,
+        "rating": 4.0,
+        "review_count": 13365,
+        "features": {
+          "battery_life": "60 hours",
+          "driver_size": "13mm",
+          "low_latency": "45ms",
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "13mm driver for rich, detailed sound",
+          "Well-rated at 4.0/5 stars",
+          "Trusted by 13,365+ buyers"
+        ]
+      },
+      {
+        "asin": "B0DZ12NCD7",
+        "name": "GOBOULT Astra Neo Bluetooth in Ear Earbuds with 70H Playtime, 40mm Bass Driver, Zen ENC Mic, Type-C Fast Charging, 4EQ Modes, Bluetooth 5.4, Low Latency Gaming, Wireless Earbuds (White)",
+        "price_inr": 1099,
+        "rating": 4.0,
+        "review_count": 1536,
+        "features": {
+          "battery_life": "70 hours",
+          "bluetooth_version": "v5.4",
+          "fast_charging": true,
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Exceptional 70H battery — great for all-day use",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 1,536+ reviews"
+        ]
+      },
+      {
+        "asin": "B0GRV5S7DW",
+        "name": "GOBOULT Z40 Pro v2.0 in Ear Earbuds with 100H Playtime, Amp App Support, Active Noise Cancellation, Quad Mic ENC, Dual Device Pairing, 13mm Driver, Bluetooth 5.4 Wireless (Indigo Rust)",
+        "price_inr": 1499,
+        "rating": 3.9,
+        "review_count": 492,
+        "features": {
+          "battery_life": "100 hours",
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.4",
+          "driver_size": "13mm",
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Exceptional 100H battery — great for all-day use",
+          "Active Noise Cancellation for immersive listening",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Multipoint connection — pair with two devices simultaneously"
+        ]
+      },
+      {
+        "asin": "B0CBV22Q52",
+        "name": "GOBOULT Z60 Made in India Ear Buds Wireless with 60H Playtime, 4 ENC Mics Clear Calling, 50ms Low Latency Gaming, 13mm Bass Driver Earbuds Bluetooth Wireless Earphones (Spring Green)",
+        "price_inr": 899,
+        "rating": 3.9,
+        "review_count": 1804,
+        "features": {
+          "battery_life": "60 hours",
+          "low_latency": "50ms",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Ultra-low 50ms latency — ideal for gaming and video",
+          "Popular choice with 1,804+ reviews"
+        ]
+      },
+      {
+        "asin": "B0G51YJ53N",
+        "name": "GOBOULT Y1 Ear Buds Wireless with 50H Playtime, Clear Calling ENC Mic, Low Latency Gaming, Made in India, 10mm Bass Drivers Earbuds Buds TWS Bluetooth (Green)",
+        "price_inr": 699,
+        "rating": 3.9,
+        "review_count": 215,
+        "features": {
+          "battery_life": "50 hours",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening"
+        ]
+      },
+      {
+        "asin": "B0DSG8SNXH",
+        "name": "GOBOULT Z20 Made in India Bluetooth Ear Buds Wireless 51H Playtime, Clear Calling ENC Mic, Low Latency Gaming, 10mm Drivers Earbuds Buds Bluetooth Wireless Earphones (Pine Green)",
+        "price_inr": 999,
+        "rating": 3.9,
+        "review_count": 2221,
+        "features": {
+          "battery_life": "51 hours",
+          "driver_size": "10mm",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 51H battery life for extended listening",
+          "10mm driver for rich, detailed sound",
+          "Popular choice with 2,221+ reviews"
+        ]
+      },
+      {
+        "asin": "B0CTCX6CHW",
+        "name": "GOBOULT K40 True Wireless in Ear Earbuds with 48H Playtime, Clear Calling 4 Mics, 45ms Low Latency Gaming, 13mm Bass Drivers, Type-C Fast Charging, Bluetooth 5.3 Ear Buds (Ivory White)",
+        "price_inr": 1099,
+        "rating": 3.9,
+        "review_count": 8212,
+        "features": {
+          "battery_life": "48 hours",
+          "bluetooth_version": "v5.3",
+          "microphones": "4 mics",
+          "low_latency": "45ms",
+          "fast_charging": true,
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 48H battery life for extended listening",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "4-mic array with ENC for crystal-clear calls",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Popular choice with 8,212+ reviews"
+        ]
+      },
+      {
+        "asin": "B0DFMHM9CM",
+        "name": "GOBOULT Made in India K10 Ear Buds Wireless with 50H Playtime, 4 Mics Clear Calling, 45ms Low Latency Gaming, 10mm Bass Drivers Earbuds Buds Bluetooth Wireless Earphones (Ice Blue)",
+        "price_inr": 799,
+        "rating": 3.9,
+        "review_count": 3482,
+        "features": {
+          "battery_life": "50 hours",
+          "microphones": "4 mics",
+          "low_latency": "45ms",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "4-mic array with ENC for crystal-clear calls",
+          "Popular choice with 3,482+ reviews"
+        ]
+      },
+      {
+        "asin": "B0D3R1JQ7D",
+        "name": "GOBOULT W20 Truly Wireless in Ear Earbuds with 40H Playtime, Zen™ ENC Mic, 45ms Low Latency, 13mm Bass Drivers, Type-C Fast Charging, Touch Control, IPX5 Ear Buds TWS (Glacier Blue)",
+        "price_inr": 799,
+        "rating": 3.9,
+        "review_count": 15048,
+        "features": {
+          "battery_life": "40 hours",
+          "water_resistance": "IP5",
+          "low_latency": "45ms",
+          "fast_charging": true,
+          "enc": true,
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "Trusted by 15,048+ buyers"
+        ]
+      },
+      {
+        "asin": "B0CHVWYZV8",
+        "name": "GOBOULT Z40 Pro with 100H Playtime, Zen Quad Mic ENC, 45ms Low Latency Gaming, Premium Rubber Grip Case, 13mm Bass Drivers, BT 5.3, TWS Truly Wireless in Ear Earbuds (Lavender)",
+        "price_inr": 1099,
+        "rating": 3.8,
+        "review_count": 44096,
+        "features": {
+          "battery_life": "100 hours",
+          "bluetooth_version": "v5.3",
+          "low_latency": "45ms",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Exceptional 100H battery — great for all-day use",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Trusted by 44,096+ buyers"
+        ]
+      },
+      {
+        "asin": "B0DMM1H92H",
+        "name": "GOBOULT Y1 Pro Ear Buds Wireless 60H Playtime, 4 Mics Calling, 45ms Low Latency Gaming, Made in India,13mm Bass Driver Earbuds Buds TWS Bluetooth Wireless Earphone (Powder Blue)",
+        "price_inr": 899,
+        "rating": 3.7,
+        "review_count": 347,
+        "features": {
+          "battery_life": "60 hours",
+          "microphones": "4 mics",
+          "low_latency": "45ms",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "4-mic array with ENC for crystal-clear calls"
+        ]
+      },
+      {
+        "asin": "B0F9L6VF7G",
+        "name": "GOBOULT Klarity 4 ANC in-Ear Truly Wireless Earbuds with 35dB Active Noise Cancellation, 60H Playtime, 4 Mics Calling, 45ms Low Latency, 10mm Driver, Type-C Fast Charging (Jet Black)",
+        "price_inr": 999,
+        "rating": 3.3,
+        "review_count": 94,
+        "features": {
+          "battery_life": "60 hours",
+          "noise_cancellation": "Yes",
+          "driver_size": "10mm",
+          "microphones": "4 mics",
+          "low_latency": "45ms",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Active Noise Cancellation for immersive listening",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "4-mic array with ENC for crystal-clear calls",
+          "10mm driver for rich, detailed sound"
+        ]
+      }
+    ],
+    "total_products": 15
+  },
+  {
+    "brand": "HAMMER",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0FZD7ZJGD",
+        "name": "HAMMER Ultra Pods True Wireless Earbuds with in-Built Mic, 100H Standby Time, 1H Charging USB Type-C, 13mm Dynamic Drivers, 50H Playtime, BT v6.0 Connectivity, IPX5 Water Resistant (Beige)",
+        "price_inr": 579,
+        "rating": 3.7,
+        "review_count": 945,
+        "features": {
+          "battery_life": "100 hours",
+          "bluetooth_version": "v6.0",
+          "water_resistance": "IP5"
+        },
+        "why_buy": [
+          "Exceptional 100H battery — great for all-day use",
+          "IP5 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v6.0 for stable, efficient connection"
+        ]
+      },
+      {
+        "asin": "B0D2J4FT99",
+        "name": "HAMMER Screen TWS Earbuds Wireless with 13mm Drivers, ANC Ear Buds 32dB, up to 50H Playtime TWS Ear Buds, Type-C Fast Charging, BT v5.4, True Wireless Earbuds Bluetooth,Transparency & EQ Mode (White)",
+        "price_inr": 1499,
+        "rating": 3.6,
+        "review_count": 1082,
+        "features": {
+          "battery_life": "50 hours",
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.4",
+          "driver_size": "13mm",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Active Noise Cancellation for immersive listening",
+          "Fast charging — minimal downtime between uses",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Popular choice with 1,082+ reviews"
+        ]
+      },
+      {
+        "asin": "B0D7C56BJN",
+        "name": "HAMMER New Launch Ultra Pods TWS Wireless Bluetooth Ear buds, Inbuilt Mic, 100H Standby Time, Earbuds with 30H Playtime, USB Type-C,13mm Dynamic Drivers, IPX5 Water Resistant Bluetooth Earphones(Blue)",
+        "price_inr": 599,
+        "rating": 3.5,
+        "review_count": 751,
+        "features": {
+          "battery_life": "100 hours",
+          "water_resistance": "IP5"
+        },
+        "why_buy": [
+          "Exceptional 100H battery — great for all-day use",
+          "IP5 water resistance — safe for workouts and rain"
+        ]
+      }
+    ],
+    "total_products": 3
+  },
+  {
+    "brand": "HP",
+    "country_of_origin": "USA",
+    "products": [
+      {
+        "asin": "B0DHKJ5HWL",
+        "name": "HP H200 Wireless Headset",
+        "price_inr": 1306,
+        "rating": 4.0,
+        "review_count": 1421,
+        "features": {},
+        "why_buy": [
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 1,421+ reviews"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Humble®",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0G7221VDX",
+        "name": "Humble® Wireless Bluetooth Earbuds with Noise Cancellation, 24H Playtime, Touch Controls, Deep Bass Stereo Sound, Fast Pairing TWS Earphones with Voice Assistant Support – Black",
+        "price_inr": 798,
+        "rating": 4.0,
+        "review_count": 59,
+        "features": {
+          "battery_life": "24 hours",
+          "noise_cancellation": "Yes",
+          "touch_controls": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Decent 24H playtime for daily commutes",
+          "Active Noise Cancellation for immersive listening",
+          "Well-rated at 4.0/5 stars"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Kratos",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0GCT3DKWB",
+        "name": "Kratos TW02 Ear Buds Wireless with 30H Playtime, Noise Isolation & Clear Calls, Bluetooth Earbuds with Voice Assistant, Ear Buds with Bluetooth V 5.3 & with Type C Fast Charging, IPX5 TWS Earphones",
+        "price_inr": 499,
+        "rating": 4.4,
+        "review_count": 218,
+        "features": {
+          "battery_life": "30 hours",
+          "water_resistance": "IP5",
+          "fast_charging": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Decent 30H playtime for daily commutes",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "Highly rated 4.4/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0G2H4R5YB",
+        "name": "Kratos TW02 Ear Buds Wireless with 30H Playtime, Noise Isolation & Clear Calls, Bluetooth Earbuds with Voice Assistant, Ear Buds with Bluetooth V 5.3 & with Type C Fast Charging, IPX5 TWS Earphones",
+        "price_inr": 499,
+        "rating": 4.2,
+        "review_count": 505,
+        "features": {
+          "battery_life": "30 hours",
+          "water_resistance": "IP5",
+          "fast_charging": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Decent 30H playtime for daily commutes",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "Highly rated 4.2/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0G2SPF2W1",
+        "name": "Kratos N1 Neckband Bluetooth Headphones with 30 Hours Playtime with 13mm Drivers, Rich Music Experience, Type C Fast Charging, Neckband Earphones with Voice Assistant & IPX4 Water Resistant",
+        "price_inr": 398,
+        "rating": 4.0,
+        "review_count": 1168,
+        "features": {
+          "battery_life": "30 hours",
+          "driver_size": "13mm",
+          "water_resistance": "IP4",
+          "fast_charging": true,
+          "enc": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Decent 30H playtime for daily commutes",
+          "Fast charging — minimal downtime between uses",
+          "IP4 water resistance — safe for workouts and rain",
+          "13mm driver for rich, detailed sound",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 1,168+ reviews"
+        ]
+      },
+      {
+        "asin": "B0FCCH3KMZ",
+        "name": "Kratos N4 Bluetooth Neckband with 52H Playtime, Deep Bass, Stereo Sound, HD Calls, Magnetic Earbuds, Type-C Fast Charging, Rich Audio, Hollow Switch for Comfort & Style",
+        "price_inr": 349,
+        "rating": 3.6,
+        "review_count": 2001,
+        "features": {
+          "battery_life": "52 hours",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Long 52H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "Popular choice with 2,001+ reviews"
+        ]
+      },
+      {
+        "asin": "B0FSDYHR92",
+        "name": "Kratos Cube Ear Buds Wireless with 30H Playtime, Noise Isolation & Clear Calls, Bluetooth Earbuds with Voice Assistant, Ear Buds with Bluetooth V 5.3 & with Type C Fast Charging, IPX4 TWS Earphones",
+        "price_inr": 499,
+        "rating": 3.6,
+        "review_count": 470,
+        "features": {
+          "battery_life": "30 hours",
+          "water_resistance": "IP4",
+          "fast_charging": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Decent 30H playtime for daily commutes",
+          "Fast charging — minimal downtime between uses",
+          "IP4 water resistance — safe for workouts and rain"
+        ]
+      }
+    ],
+    "total_products": 5
+  },
+  {
+    "brand": "Luxaro",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GN2MYWGC",
+        "name": "Luxaro Mart UltraPods Max True Wireless Earbuds with Bluetooth 5.3, Enhanced Sound Quality, Touch Control, Long Lasting, Noise Cancellation & Comfortable Fit (Black)",
+        "price_inr": 277,
+        "rating": 5.0,
+        "review_count": 1,
+        "features": {
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Active Noise Cancellation for immersive listening",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Highly rated 5.0/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0GHK4DS12",
+        "name": "Luxaro Mart UltraPods Max True Wireless Earbuds with Bluetooth 5.3, Enhanced Sound Quality, Touch Control,Battery Life, Noise Cancellation & Comfortable Fit",
+        "price_inr": 277,
+        "rating": 2.0,
+        "review_count": 2,
+        "features": {
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Active Noise Cancellation for immersive listening",
+          "Latest Bluetooth v5.3 for stable, efficient connection"
+        ]
+      }
+    ],
+    "total_products": 2
+  },
+  {
+    "brand": "M19",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GSBY5874",
+        "name": "M19 Wireless Bluetooth Earbuds with LED Power Display, Wireless Charging Case, Touch Control, Crystal Clear Audio",
+        "price_inr": 309,
+        "rating": 3.3,
+        "review_count": 4,
+        "features": {
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Affordable wireless earbuds with Bluetooth connectivity"
+        ]
+      },
+      {
+        "asin": "B0GSBRS9H1",
+        "name": "M19 Wireless Earbuds, Bluetooth 5.3, Touch Controls, Noise Cancelling, Bass Boost, with Mic, LED Power Display Charging Case, Black",
+        "price_inr": 339,
+        "rating": null,
+        "review_count": 0,
+        "features": {
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Active Noise Cancellation for immersive listening",
+          "Latest Bluetooth v5.3 for stable, efficient connection"
+        ]
+      }
+    ],
+    "total_products": 2
+  },
+  {
+    "brand": "Mivi",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0FTFGJ495",
+        "name": "Mivi DuoPods Marathon Earbuds Wireless | Fast Charge | 70H Playtime | BT v5.3 | 13mm Drivers | Noise Cancellation | IPX4.0 TWS",
+        "price_inr": 899,
+        "rating": 4.4,
+        "review_count": 732,
+        "features": {
+          "battery_life": "70 hours",
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.3",
+          "driver_size": "13mm",
+          "water_resistance": "IP4",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Exceptional 70H battery — great for all-day use",
+          "Active Noise Cancellation for immersive listening",
+          "Fast charging — minimal downtime between uses",
+          "IP4 water resistance — safe for workouts and rain",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Highly rated 4.4/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0FTF786Q8",
+        "name": "Mivi DuoPods Echo | AI-ENC Calls| IPX 4.0 Earphone Wireless | 13mm Drivers Earbuds | TWS Earphone Wireless with Bluetooth 5.3 | Made in India | 1 Year Warranty | 60 Hours Playtime",
+        "price_inr": 799,
+        "rating": 4.3,
+        "review_count": 339,
+        "features": {
+          "battery_life": "60 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "13mm",
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Highly rated 4.3/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0G2GGLTMF",
+        "name": "Mivi DuoPods Sync in Ear Earbuds | 60H Playtime Bluetooth Earphones Wireless | Earbuds ENC for Clear Calls | 13mm Drivers Ear Buds Wireless | Gaming Mode | BT 5.3 TWS ENC Earbuds Style | Earpods",
+        "price_inr": 999,
+        "rating": 4.2,
+        "review_count": 651,
+        "features": {
+          "battery_life": "60 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "13mm",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Highly rated 4.2/5 by customers"
+        ]
+      }
+    ],
+    "total_products": 3
+  },
+  {
+    "brand": "Noise",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0GCNML31G",
+        "name": "Noise Buds Mini Truly Wireless Earbuds (2026) | Half in-Ear Design | 40H Playtime | Quad Mic ENC for Clear Calls | 13mm Driver | Low Latency Gaming Mode | BT v5.3 | IPX4 Sweat Resistant - Calm Lilac",
+        "price_inr": 899,
+        "rating": 5.0,
+        "review_count": 1,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "13mm",
+          "water_resistance": "IP4",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "IP4 water resistance — safe for workouts and rain",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Highly rated 5.0/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0G2C8MR7L",
+        "name": "Noise Master Buds 2 with Sound by Bose (2026),51dB Adaptive ANC, Hi-Res LHDC Audio,360° Spatial Audio with Head Tracking, 6-mic ENC, Dual Pairing, Fast Charge & BT v6.1 (Carbon)",
+        "price_inr": 8999,
+        "rating": 4.7,
+        "review_count": 143,
+        "features": {
+          "noise_cancellation": "51db adaptive anc",
+          "bluetooth_version": "v6.1",
+          "fast_charging": true,
+          "spatial_audio": true,
+          "enc": true,
+          "hi_res_audio": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Active Noise Cancellation (51db adaptive anc) blocks out distractions",
+          "Fast charging — minimal downtime between uses",
+          "Spatial/3D audio for an immersive sound experience",
+          "Hi-Res audio (LDAC/LHDC) for studio-quality sound",
+          "Latest Bluetooth v6.1 for stable, efficient connection",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Highly rated 4.7/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0CYPZGB8W",
+        "name": "Noise Pop Buds Truly Wireless Earbuds with 50H of Playtime, Quad Mic with ENC, Instacharge(10 Min=150 Min) Bluetooth V5.3(Lilac Pop) True Wireless",
+        "price_inr": 999,
+        "rating": 4.1,
+        "review_count": 178,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.3",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Well-rated at 4.1/5 stars"
+        ]
+      },
+      {
+        "asin": "B0FZ9WRMLN",
+        "name": "Noise Newly Launch Buds Play Truly Wireless Earbuds with 40H of Playtime, Quad Mic with ENC, Low Latency for Gaming (Up to 50 Ms), 13mm Driver, BT V6.0(Chalk White)",
+        "price_inr": 1199,
+        "rating": 4.1,
+        "review_count": 246,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v6.0",
+          "driver_size": "13mm",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v6.0 for stable, efficient connection",
+          "Well-rated at 4.1/5 stars"
+        ]
+      },
+      {
+        "asin": "B0FZ9RSSWZ",
+        "name": "Noise Newly Launched Buds Connect 3 Truly Wireless Earbuds with 40H of Playtime, Quad Mic with ENC, Low Latency, 10mm Driver, BT V5.4(Dusty Rose)",
+        "price_inr": 1299,
+        "rating": 4.0,
+        "review_count": 17,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v5.4",
+          "driver_size": "10mm",
+          "enc": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "10mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Well-rated at 4.0/5 stars"
+        ]
+      },
+      {
+        "asin": "B0FHW7PX1N",
+        "name": "Noise Newly Launched Buds VS601 in Ear Truly Wireless Earbuds with 50H of Playtime, Transparent Case Lid, Quad Mic ENC, Dual Device Pairing, 10Mm Driver, BT V5.3 (Copper Brown)",
+        "price_inr": 1399,
+        "rating": 4.0,
+        "review_count": 1161,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "10mm",
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "10mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 1,161+ reviews"
+        ]
+      },
+      {
+        "asin": "B0FZ9XV1KD",
+        "name": "Noise Newly Launched Buds Connect 3 Truly Wireless Earbuds with 40H of Playtime, Quad Mic with ENC, Low Latency, 10mm Driver, BT V5.4(Sage Green)",
+        "price_inr": 1299,
+        "rating": 4.0,
+        "review_count": 17,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v5.4",
+          "driver_size": "10mm",
+          "enc": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "10mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Well-rated at 4.0/5 stars"
+        ]
+      },
+      {
+        "asin": "B0CMTXW7JP",
+        "name": "Noise Airwave Bluetooth in Ear Neckband with 50H of Playtime, 3 EQ Modes, ENC for Calling, Low Latency(Upto 50ms), 10mm Driver, BT v5.3(Ice Blue)",
+        "price_inr": 999,
+        "rating": 3.9,
+        "review_count": 18939,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "10mm",
+          "enc": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "10mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Trusted by 18,939+ buyers"
+        ]
+      },
+      {
+        "asin": "B0FH73TTNN",
+        "name": "Noise Master Buds, Sound by Bose in-Ear Bluetooth Earbuds, Up to 49dB Adaptive ANC, LHDC 5.0, Immersive Spatial Audio, 44H Playtime with 6 mic ENC, Dual Pairing, IPX5 Ear Buds TWS (Espresso Bronze)",
+        "price_inr": 5999,
+        "rating": 3.9,
+        "review_count": 1673,
+        "features": {
+          "battery_life": "44 hours",
+          "noise_cancellation": "49db adaptive anc",
+          "microphones": "6 mics",
+          "water_resistance": "IP5",
+          "spatial_audio": true,
+          "enc": true,
+          "hi_res_audio": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Long 44H battery life for extended listening",
+          "Active Noise Cancellation (49db adaptive anc) blocks out distractions",
+          "Spatial/3D audio for an immersive sound experience",
+          "Hi-Res audio (LDAC/LHDC) for studio-quality sound",
+          "IP5 water resistance — safe for workouts and rain",
+          "6-mic array with ENC for crystal-clear calls",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Popular choice with 1,673+ reviews"
+        ]
+      },
+      {
+        "asin": "B0CQJZD55X",
+        "name": "Noise Buds N1 Truly Wireless Earbuds with Chrome Finish, 40H of Playtime, Quad Mic with ENC, Ultra Low Latency Gaming (Up to 40 Ms), Instacharge(10 Min=120 Min), Bluetooth V5.3(Ice Blue)",
+        "price_inr": 1199,
+        "rating": 3.8,
+        "review_count": 15089,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v5.3",
+          "fast_charging": true,
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Trusted by 15,089+ buyers"
+        ]
+      },
+      {
+        "asin": "B0D4QNLF6Y",
+        "name": "Noise Buds N1 Pro Truly Wireless Earbuds with Metallic Finish, ANC(Upto 30Db), 60H of Playtime, Dual Pairing, Instacharge(10 Min=200 Min), BT V5.3(Chrome Beige)",
+        "price_inr": 1399,
+        "rating": 3.8,
+        "review_count": 8463,
+        "features": {
+          "battery_life": "60 hours",
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.3",
+          "fast_charging": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Active Noise Cancellation for immersive listening",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Popular choice with 8,463+ reviews"
+        ]
+      },
+      {
+        "asin": "B09Y5MK1KB",
+        "name": "Noise Buds VS104 Truly Wireless Earbuds with 45H of Playtime, Quad Mic with ENC, Instacharge(10 Min=200 Min), 13Mm Driver, Low Latency, BT V5.2 (Mint Green)",
+        "price_inr": 899,
+        "rating": 3.8,
+        "review_count": 29550,
+        "features": {
+          "battery_life": "45 hours",
+          "bluetooth_version": "v5.2",
+          "driver_size": "13mm",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 45H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "13mm driver for rich, detailed sound",
+          "Trusted by 29,550+ buyers"
+        ]
+      },
+      {
+        "asin": "B0CQJWQWD9",
+        "name": "Noise Buds N1 Truly Wireless Earbuds with Chrome Finish, 40H of Playtime, Quad Mic with ENC, Ultra Low Latency Gaming (Up to 40 Ms), Instacharge(10 Min=120 Min), Bluetooth V5.3(Forest Green)",
+        "price_inr": 1199,
+        "rating": 3.8,
+        "review_count": 15089,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v5.3",
+          "fast_charging": true,
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Trusted by 15,089+ buyers"
+        ]
+      },
+      {
+        "asin": "B0DS2XNXZB",
+        "name": "Noise Buds VS102 Plus Wireless Earbuds, Bluetooth Earbuds with 70H Playtime, Quad Mic ENC for Clear Calls, 11mm Drivers, Deep Bass, Instacharge, Bluetooth v5.3 (Deep Wine)",
+        "price_inr": 1199,
+        "rating": 3.7,
+        "review_count": 6940,
+        "features": {
+          "battery_life": "70 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "11mm",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 70H battery — great for all-day use",
+          "Fast charging — minimal downtime between uses",
+          "11mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Popular choice with 6,940+ reviews"
+        ]
+      },
+      {
+        "asin": "B0F9PKTL7J",
+        "name": "Noise Newly Launched Buds E1 in-Ear Truly Wireless Earbuds with Pebble Grain Design, 35H of Playtime, Quad mic ENC,10mm Driver, Low Latency, BT v5.3 (Charcoal Black)",
+        "price_inr": 999,
+        "rating": 3.5,
+        "review_count": 255,
+        "features": {
+          "battery_life": "35 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "10mm",
+          "enc": true
+        },
+        "why_buy": [
+          "Decent 35H playtime for daily commutes",
+          "10mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection"
+        ]
+      },
+      {
+        "asin": "B0D25PCFXZ",
+        "name": "Noise Airwave Pro Bluetooth in Ear Neckband with Upto 32 dB ANC, 60H of Playtime, Dual Device Pairing, 3 Mic ENC for Calling, Low Latency(Upto 40ms), 13mm Driver (Metallic Blue)",
+        "price_inr": 1299,
+        "rating": 3.5,
+        "review_count": 1297,
+        "features": {
+          "battery_life": "60 hours",
+          "noise_cancellation": "32 db anc",
+          "driver_size": "13mm",
+          "microphones": "3 mics",
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Active Noise Cancellation (32 db anc) blocks out distractions",
+          "Built-in 3 mics for hands-free calling",
+          "13mm driver for rich, detailed sound",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Popular choice with 1,297+ reviews"
+        ]
+      },
+      {
+        "asin": "B0CFYJ8HRS",
+        "name": "Noise Pure Pods Wireless Open Ear Earbuds with AirWave™ Technology,Up-to 80H Playtime,Quad Mic with ENC,16mm Neodymium Dynamic Driver,Detachable Pure Band,BTv5.3 (Power Black)",
+        "price_inr": 2999,
+        "rating": 3.3,
+        "review_count": 3340,
+        "features": {
+          "battery_life": "80 hours",
+          "bluetooth_version": "v5.3",
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 80H battery — great for all-day use",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Popular choice with 3,340+ reviews"
+        ]
+      },
+      {
+        "asin": "B0F66WW9PX",
+        "name": "Noise Newly Launched Air Clips 2 Wireless OpenEar Earbuds with ClipDesign, AirWave™ Technology,Up-to 40H Playtime, Dual Device Pairing, ENC,12mm Driver,BTv5.3 (Frost Green), ‎AUD-HDPHN-AIRCLIPS-2-GRN",
+        "price_inr": 2499,
+        "rating": 3.0,
+        "review_count": 415,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "12mm",
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "12mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Multipoint connection — pair with two devices simultaneously"
+        ]
+      }
+    ],
+    "total_products": 18
+  },
+  {
+    "brand": "OnePlus",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0FMDL81GS",
+        "name": "OnePlus Nord Buds 3r TWS Earbuds up to 54 Hours Playback, 2-mic Clear Calls, 3D Spatial Audio, AI Translation, 12.4mm Drivers, Dual-Device Connectivity, 47ms Low Latency - Ash Black",
+        "price_inr": 1999,
+        "rating": 4.3,
+        "review_count": 42681,
+        "features": {
+          "battery_life": "54 hours",
+          "driver_size": "12.4mm",
+          "low_latency": "47ms",
+          "spatial_audio": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 54H battery life for extended listening",
+          "Ultra-low 47ms latency — ideal for gaming and video",
+          "Spatial/3D audio for an immersive sound experience",
+          "12.4mm driver for rich, detailed sound",
+          "Highly rated 4.3/5 by customers",
+          "Trusted by 42,681+ buyers"
+        ]
+      },
+      {
+        "asin": "B0DFPKVGVC",
+        "name": "OnePlus Nord Buds 3 Truly Wireless Bluetooth Earbuds with up to 32dB Active Noise Cancellation, 10mins for 11Hours Fast Charging with Up to 43h Music Playback -Melodic White",
+        "price_inr": 2499,
+        "rating": 4.3,
+        "review_count": 19365,
+        "features": {
+          "battery_life": "11 hours",
+          "noise_cancellation": "Yes",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Active Noise Cancellation for immersive listening",
+          "Fast charging — minimal downtime between uses",
+          "Highly rated 4.3/5 by customers",
+          "Trusted by 19,365+ buyers"
+        ]
+      },
+      {
+        "asin": "B0FCMPJQ1J",
+        "name": "OnePlus Buds 4 TWS Earbuds with Upto 55dB Real-time ANC, Adaptive Mode, Dual Drivers and DACs, 3D Audio, Upto 45hrs Music Playback, Dual-Device connectivity, 47ms Low Latency, Storm Gray",
+        "price_inr": 6499,
+        "rating": 4.3,
+        "review_count": 2173,
+        "features": {
+          "battery_life": "45 hours",
+          "noise_cancellation": "Yes",
+          "low_latency": "47ms",
+          "spatial_audio": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 45H battery life for extended listening",
+          "Active Noise Cancellation for immersive listening",
+          "Ultra-low 47ms latency — ideal for gaming and video",
+          "Spatial/3D audio for an immersive sound experience",
+          "Highly rated 4.3/5 by customers",
+          "Popular choice with 2,173+ reviews"
+        ]
+      },
+      {
+        "asin": "B0GQTSHLLR",
+        "name": "OnePlus Nord Buds 4 Pro TWS Earbuds, Upto 55dB Real-time ANC, Adaptive Mode, 12mm Titanium-Coated Driver, Spatial Audio, Upto 54hrs Playback, Dual-Device connectivity, 47ms Low Latency, Raven Black",
+        "price_inr": 3999,
+        "rating": 4.2,
+        "review_count": 221,
+        "features": {
+          "battery_life": "54 hours",
+          "noise_cancellation": "Yes",
+          "low_latency": "47ms",
+          "spatial_audio": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 54H battery life for extended listening",
+          "Active Noise Cancellation for immersive listening",
+          "Ultra-low 47ms latency — ideal for gaming and video",
+          "Spatial/3D audio for an immersive sound experience",
+          "Highly rated 4.2/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0FBRGKXHG",
+        "name": "OnePlus Bullets Wireless Z3 in-Ear Neckband with 12.4mm Drivers, 3D Spatial Audio,10 mins Charge for 27 hrs Playback, 4 EQ preset, Dynamic bass Enhancement & BT5.4",
+        "price_inr": 1799,
+        "rating": 4.1,
+        "review_count": 228259,
+        "features": {
+          "battery_life": "27 hours",
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.4",
+          "driver_size": "12.4mm",
+          "spatial_audio": true
+        },
+        "why_buy": [
+          "Decent 27H playtime for daily commutes",
+          "Active Noise Cancellation for immersive listening",
+          "Spatial/3D audio for an immersive sound experience",
+          "12.4mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Well-rated at 4.1/5 stars",
+          "Trusted by 228,259+ buyers"
+        ]
+      }
+    ],
+    "total_products": 5
+  },
+  {
+    "brand": "Original",
+    "country_of_origin": "Unknown",
+    "products": [
+      {
+        "asin": "B0GVPMYH4Y",
+        "name": "Original Earphone Compatible with OnePlus Bullets Wireless Z2 ANC Bluetooth in Ear Earphones with Mic, 45dB Hybrid ANC, Bombastic Bass - 12.4 mm Drivers, 10 Mins Charge (Black)",
+        "price_inr": 999,
+        "rating": 3.9,
+        "review_count": 107,
+        "features": {
+          "noise_cancellation": "45db hybrid anc",
+          "driver_size": "12.4mm"
+        },
+        "why_buy": [
+          "Active Noise Cancellation (45db hybrid anc) blocks out distractions",
+          "12.4mm driver for rich, detailed sound"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "PHILIPS",
+    "country_of_origin": "Netherlands",
+    "products": [
+      {
+        "asin": "B0CCYH54YV",
+        "name": "PHILIPS TAT1108WT/00 True Wireless Earbuds, In-Ear, Bluetooth v5.3, Earphones with Mic, 15H Playback,Shank Shape, IPX4, Button Controls, Comfortable Fit, AI Mic for Crystal Clear Sound Quality (White)",
+        "price_inr": 1099,
+        "rating": 4.1,
+        "review_count": 11099,
+        "features": {
+          "battery_life": "15 hours",
+          "bluetooth_version": "v5.3",
+          "water_resistance": "IP4"
+        },
+        "why_buy": [
+          "IP4 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Well-rated at 4.1/5 stars",
+          "Trusted by 11,099+ buyers"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Philips",
+    "country_of_origin": "Netherlands",
+    "products": [
+      {
+        "asin": "B0FHKHT717",
+        "name": "Philips TAT1269 Bluetooth Truly Wireless in Ear Earbuds with mic, 13mm Drivers, Bluetooth 5.4, 40H Playtime, IPX5, Fast Charging, Touch Controls, Voice Assistant, Mono Mode, LED Indicator (Deep Black)",
+        "price_inr": 999,
+        "rating": 3.9,
+        "review_count": 472,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v5.4",
+          "driver_size": "13mm",
+          "water_resistance": "IP5",
+          "fast_charging": true,
+          "touch_controls": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.4 for stable, efficient connection"
+        ]
+      },
+      {
+        "asin": "B0GK7LB2L2",
+        "name": "Philips TAT1269 Bluetooth Truly Wireless in Ear Earbuds with mic, 13mm Drivers, Bluetooth 5.4, 40H Playtime, IPX5, Fast Charging, Touch Controls, Voice Assistant, Mono Mode, LED Indicator(Cosmic Blue)",
+        "price_inr": 999,
+        "rating": 3.9,
+        "review_count": 472,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v5.4",
+          "driver_size": "13mm",
+          "water_resistance": "IP5",
+          "fast_charging": true,
+          "touch_controls": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.4 for stable, efficient connection"
+        ]
+      }
+    ],
+    "total_products": 2
+  },
+  {
+    "brand": "Portronics",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0C9V3437T",
+        "name": "Portronics Harmonics Z7 Bluetooth Wireless in Ear Earphones with Upto 40 Hours Playback, 10mm Dynamic Driver, Gaming Mode, High Bass, IPX4 Water and Sweat Resistant, Type C Fast Charging(Black)",
+        "price_inr": 605,
+        "rating": 4.0,
+        "review_count": 3460,
+        "features": {
+          "battery_life": "40 hours",
+          "water_resistance": "IP4",
+          "fast_charging": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "IP4 water resistance — safe for workouts and rain",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 3,460+ reviews"
+        ]
+      },
+      {
+        "asin": "B0BJDKG3GZ",
+        "name": "Portronics Harmonics Z5 Wireless Bluetooth Stereo Headset with 33Hrs Playtime, Double EQ Mode, 14.2 mm Dynamic Drivers, Click Action Buttons(Black)",
+        "price_inr": 639,
+        "rating": 4.0,
+        "review_count": 2073,
+        "features": {
+          "battery_life": "33 hours"
+        },
+        "why_buy": [
+          "Decent 33H playtime for daily commutes",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 2,073+ reviews"
+        ]
+      },
+      {
+        "asin": "B0DB8SYVN7",
+        "name": "Portronics Harmonics Twins S18 in Ear TWS Earbuds with 30H Playtime, in Built HD Mic, Game/Music Mode, 13mm Dynamic Driver, Low Latency, Touch Control, Type C Fast Charging, Light Weight(Black)",
+        "price_inr": 648,
+        "rating": 4.0,
+        "review_count": 976,
+        "features": {
+          "battery_life": "30 hours",
+          "fast_charging": true,
+          "enc": true,
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Decent 30H playtime for daily commutes",
+          "Fast charging — minimal downtime between uses",
+          "Well-rated at 4.0/5 stars"
+        ]
+      },
+      {
+        "asin": "B0CV5NFMRX",
+        "name": "Portronics Harmonics Twins S13 in Ear True Wireless Earbuds with Mic, 24H Playtime, Game/Music Mode, Touch Control, 8mm Driver, Bluetooth 5.3v,IPX5 Water Resistance, Type C Fast Charging(Green)",
+        "price_inr": 599,
+        "rating": 4.0,
+        "review_count": 543,
+        "features": {
+          "battery_life": "24 hours",
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.3",
+          "driver_size": "8mm",
+          "water_resistance": "IP5",
+          "fast_charging": true,
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Decent 24H playtime for daily commutes",
+          "Active Noise Cancellation for immersive listening",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "8mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Well-rated at 4.0/5 stars"
+        ]
+      },
+      {
+        "asin": "B0CTTS6DRN",
+        "name": "Portronics Harmonics Twins S16 in Ear Wireless TWS Earbuds with 24 Hrs Playtime, Clear Calls, Game & Music Mode, Low Latency, Bluetooth 5.3v, LED Display, Type C Fast Charging(Blue)",
+        "price_inr": 699,
+        "rating": 3.9,
+        "review_count": 1340,
+        "features": {
+          "battery_life": "24 hours",
+          "bluetooth_version": "v5.3",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Decent 24H playtime for daily commutes",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Popular choice with 1,340+ reviews"
+        ]
+      }
+    ],
+    "total_products": 5
+  },
+  {
+    "brand": "PrimeeVaultt",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GS5N3LPL",
+        "name": "PrimeeVaultt Wireless In Ear Earbuds, Bluetooth 5.1 TWS Earphones With Built-in Mic, Long Playtime, Fast Charging, Smart Touch Control, 12mm Driver (Black)",
+        "price_inr": 269,
+        "rating": 2.8,
+        "review_count": 11,
+        "features": {
+          "bluetooth_version": "v5.1",
+          "driver_size": "12mm",
+          "fast_charging": true,
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Fast charging — minimal downtime between uses",
+          "12mm driver for rich, detailed sound"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Sennheiser",
+    "country_of_origin": "Germany",
+    "products": [
+      {
+        "asin": "B0D17CVCYX",
+        "name": "Sennheiser ACCENTUM True Wireless Earbuds, BT v5.3 Auracast & LE Audio, TrueResponse Drivers, Hybrid ANC + Transparency Mode, 28 Hr Battery, Qi & USB‑C Charging, Touch Control, 2Y Warranty, Black",
+        "price_inr": 9990,
+        "rating": 3.8,
+        "review_count": 534,
+        "features": {
+          "battery_life": "28 hours",
+          "noise_cancellation": "Yes",
+          "bluetooth_version": "v5.3",
+          "enc": true,
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Decent 28H playtime for daily commutes",
+          "Active Noise Cancellation for immersive listening",
+          "Latest Bluetooth v5.3 for stable, efficient connection"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "ShreeADR",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GV4P5NCM",
+        "name": "ShreeADR Wireless Earbuds Bluetooth 5.3 TWS Earphones Full Touch Control Headphones Built-in Microphone Premium Sound Quality Ensure Fast Stable & Connection With Type C Charger",
+        "price_inr": 349,
+        "rating": 5.0,
+        "review_count": 9,
+        "features": {
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Highly rated 5.0/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0GPJTNH9F",
+        "name": "ShreeADR UrbanBeats Sport Series Wireless Bluetooth Neckband Earphones – 370H Standby, Long Battery Backup, Lightweight Wireless In-Ear Headphones with Mic, Deep Bass, Sweat-Resistant for Sports & Running (Black)",
+        "price_inr": 259,
+        "rating": 3.6,
+        "review_count": 15,
+        "features": {
+          "battery_life": "370 hours"
+        },
+        "why_buy": [
+          "Exceptional 370H battery — great for all-day use"
+        ]
+      }
+    ],
+    "total_products": 2
+  },
+  {
+    "brand": "Sounce",
+    "country_of_origin": "Unknown",
+    "products": [
+      {
+        "asin": "B09WRKHZ93",
+        "name": "Sounce Earphone Case Cover Compatible for Boat Airdopes 141, Soft Silicone Skin Case Cover Shock-Absorbing Protective Case with Keychain [Front LED Visible] Black",
+        "price_inr": 149,
+        "rating": 4.0,
+        "review_count": 1330,
+        "features": {},
+        "why_buy": [
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 1,330+ reviews"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "VARNIADR",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GXNT6HDR",
+        "name": "VARNIADR Wireless Earbuds Bluetooth 5.3 TWS Earphones Full Touch Control Headphones Built-in Microphone Premium Sound Quality Ensure Fast Stable & Connection With Type C Charger",
+        "price_inr": 349,
+        "rating": 5.0,
+        "review_count": 3,
+        "features": {
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Highly rated 5.0/5 by customers"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "VarniADR",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GS6113PR",
+        "name": "VarniADR Wireless Earbuds Bluetooth 5.3 TWS Earphones Full Touch Control Headphones Built-in Microphone Premium Sound Quality Ensure Fast Stable & Connection With Type C Charger",
+        "price_inr": 351,
+        "rating": 3.9,
+        "review_count": 15,
+        "features": {
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Latest Bluetooth v5.3 for stable, efficient connection"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "WeCool",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0FXX3XJMZ",
+        "name": "WeCool Moonwalk Mini New Open Ear Earbuds Wireless with Call Noise Reduction, 60H Playtime Bluetooth 5.4 Ows Earphones with 360° Panoramic Sound, 16mm Drive Ear Safe Headphones with Mic, IP55",
+        "price_inr": 1379,
+        "rating": 3.7,
+        "review_count": 536,
+        "features": {
+          "battery_life": "60 hours",
+          "bluetooth_version": "v5.4",
+          "water_resistance": "IP55"
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "IP55 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v5.4 for stable, efficient connection"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "Wireless",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0GPDJBXWQ",
+        "name": "Wireless Earbuds Bluetooth 5.1 TWS Earphones Full Touch Control Headphones Built-in Microphone Immersive Sound Quality Ensure Fast Stable & Connection Smart LED Headset Sports Bud (White)",
+        "price_inr": 279,
+        "rating": 5.0,
+        "review_count": 1,
+        "features": {
+          "bluetooth_version": "v5.1",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Highly rated 5.0/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0GR9XZDHH",
+        "name": "Wireless Earbuds Bluetooth 5.1 TWS Earphones Full Touch Control Headphones Built-in Microphone Immersive Sound Quality Ensure Fast Stable & Connection Smart LED Headset Sports Bud",
+        "price_inr": 269,
+        "rating": 5.0,
+        "review_count": 1,
+        "features": {
+          "bluetooth_version": "v5.1",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Highly rated 5.0/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0GQ51HWNS",
+        "name": "Wireless Earbuds Bluetooth 5.1 TWS Earphones Full Touch Control Headphones Built-in Microphone Immersive Sound Quality Ensure Fast Stable & Connection Smart LED Headset Sports Bud (White)",
+        "price_inr": 449,
+        "rating": 4.4,
+        "review_count": 13,
+        "features": {
+          "bluetooth_version": "v5.1",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Highly rated 4.4/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0GQZ6G53J",
+        "name": "Wireless Earbuds Bluetooth 5.3 TWS Earphones Full Touch Control Headphones Fast Stable & Connection Smart LED Headset Sports Bud Built-in Microphone Immersive Sound Quality Ensure",
+        "price_inr": 299,
+        "rating": 4.0,
+        "review_count": 2,
+        "features": {
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Well-rated at 4.0/5 stars"
+        ]
+      },
+      {
+        "asin": "B0GPDWJ6K5",
+        "name": "Wireless Earbuds Bluetooth 5.1 TWS Earphones Full Touch Control Headphones Built-in Microphone Immersive Sound Quality Ensure Fast Stable & Connection Smart LED Headset Sports Bud (White)",
+        "price_inr": 279,
+        "rating": 3.5,
+        "review_count": 2,
+        "features": {
+          "bluetooth_version": "v5.1",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Affordable wireless earbuds with Bluetooth connectivity"
+        ]
+      },
+      {
+        "asin": "B0GS9M9KX3",
+        "name": "Wireless Earbuds Bluetooth 5.1 TWS Earphones Full Touch Control Headphones Built-in Microphone Immersive Sound Quality Ensure Fast Stable & Connection Smart LED Headset Sports Bud",
+        "price_inr": 279,
+        "rating": 1.0,
+        "review_count": 1,
+        "features": {
+          "bluetooth_version": "v5.1",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Affordable wireless earbuds with Bluetooth connectivity"
+        ]
+      },
+      {
+        "asin": "B0GSFG8G8S",
+        "name": "Wireless Earbuds Bluetooth 5.1 TWS Earphones Full Touch Control Headphones Built-in Microphone Immersive Sound Quality Ensure Fast Stable & Connection Smart LED Headset Sports Bud (Black)",
+        "price_inr": 279,
+        "rating": 1.0,
+        "review_count": 1,
+        "features": {
+          "bluetooth_version": "v5.1",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Affordable wireless earbuds with Bluetooth connectivity"
+        ]
+      },
+      {
+        "asin": "B0GW2J3KVQ",
+        "name": "Wireless Earbuds Bluetooth 5.1 TWS Earphones Full Touch Control Headphones Built-in Microphone Immersive Sound Quality Ensure Fast Stable & Connection Smart LED Headset Sports Earbuds",
+        "price_inr": 299,
+        "rating": 1.0,
+        "review_count": 1,
+        "features": {
+          "bluetooth_version": "v5.1",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Affordable wireless earbuds with Bluetooth connectivity"
+        ]
+      },
+      {
+        "asin": "B0GSZYY6DF",
+        "name": "Wireless Earbuds Bluetooth 5.1 TWS Earphones Full Touch Control Headphones Built-in Microphone & Connection Smart LED Headset Sports Bud",
+        "price_inr": 249,
+        "rating": null,
+        "review_count": 0,
+        "features": {
+          "bluetooth_version": "v5.1",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Affordable wireless earbuds with Bluetooth connectivity"
+        ]
+      },
+      {
+        "asin": "B0GSFCHR2K",
+        "name": "Wireless Earbuds Bluetooth 5.3 TWS Earphones Full Touch Control Headphones Fast Stable & Connection Smart LED Headset Sports Bud Built-in Microphone Immersive Sound Quality Ensure",
+        "price_inr": 249,
+        "rating": null,
+        "review_count": 0,
+        "features": {
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Latest Bluetooth v5.3 for stable, efficient connection"
+        ]
+      },
+      {
+        "asin": "B0GPKD4484",
+        "name": "Wireless Earbuds Bluetooth 5.3 TWS Earphones Full Touch Control Headphones Fast Stable & Connection Smart LED Headset Sports Bud Built-in Microphone Immersive Sound Quality Ensure",
+        "price_inr": 279,
+        "rating": null,
+        "review_count": 0,
+        "features": {
+          "bluetooth_version": "v5.3",
+          "touch_controls": true
+        },
+        "why_buy": [
+          "Latest Bluetooth v5.3 for stable, efficient connection"
+        ]
+      }
+    ],
+    "total_products": 11
+  },
+  {
+    "brand": "ZEBRONICS",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B09GFVB6N8",
+        "name": "ZEBRONICS Zeb-Evolve BTv5.0, Voice Assistant, Rapid Charge, Dual Pairing, Call Function, Magnetic Earpiece Bluetooth Wireless in Ear Earphones with Mic (Metallic Green)",
+        "price_inr": 449,
+        "rating": 3.8,
+        "review_count": 2026,
+        "features": {
+          "bluetooth_version": "v5.0",
+          "fast_charging": true,
+          "voice_assistant": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Fast charging — minimal downtime between uses",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Popular choice with 2,026+ reviews"
+        ]
+      },
+      {
+        "asin": "B09Z838S32",
+        "name": "ZEBRONICS Sound Bomb 7 Bluetooth TWS in Ear Earbuds with 60H Playtime, ENC Mic, Rapid Charge, Upto 50ms Gaming Mode, Flash Connect, Voice Assistant, Smooth Touch Control, BT v5.2, Type C (White)",
+        "price_inr": 799,
+        "rating": 3.8,
+        "review_count": 2752,
+        "features": {
+          "battery_life": "60 hours",
+          "bluetooth_version": "v5.2",
+          "fast_charging": true,
+          "enc": true,
+          "touch_controls": true,
+          "voice_assistant": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Fast charging — minimal downtime between uses",
+          "Popular choice with 2,752+ reviews"
+        ]
+      }
+    ],
+    "total_products": 2
+  },
+  {
+    "brand": "boAt",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0G2S349C4",
+        "name": "boAt Airdopes Prime 512 (2026 Launch) Volume Swipe Control, 4Mics AI-ENx, 50H Battery, Multi Connect, App Support, BT v6.1, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic(Midnight Pebble)",
+        "price_inr": 1599,
+        "rating": 4.3,
+        "review_count": 50,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v6.1",
+          "microphones": "4 mics"
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "4-mic array with ENC for crystal-clear calls",
+          "Latest Bluetooth v6.1 for stable, efficient connection",
+          "Highly rated 4.3/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0G2RZ9N63",
+        "name": "boAt 2026 Launch Nirvana Crown, SONIC ARC, LEDs, Haptic Feedback,50dB Hybrid ANC,Spatial Audio, 6 Mic ENx, App Support, v6.0 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Sapphire Blue)",
+        "price_inr": 2799,
+        "rating": 3.9,
+        "review_count": 396,
+        "features": {
+          "noise_cancellation": "50db hybrid anc",
+          "microphones": "6 mics",
+          "spatial_audio": true
+        },
+        "why_buy": [
+          "Active Noise Cancellation (50db hybrid anc) blocks out distractions",
+          "Spatial/3D audio for an immersive sound experience",
+          "6-mic array with ENC for crystal-clear calls"
+        ]
+      },
+      {
+        "asin": "B0DXPTTHDX",
+        "name": "boAt Airdopes 101v2, 35H Battery, ENx Tech, 13mm Drivers, ASAP Charge, Flex-Fit Ear Tips,Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Smoke White)",
+        "price_inr": 884,
+        "rating": 3.8,
+        "review_count": 826,
+        "features": {
+          "battery_life": "35 hours",
+          "driver_size": "13mm",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Decent 35H playtime for daily commutes",
+          "Fast charging — minimal downtime between uses",
+          "13mm driver for rich, detailed sound"
+        ]
+      },
+      {
+        "asin": "B0G48KQKKF",
+        "name": "boAt Airdopes Ace Gen 2 TWS Earbuds with 45H Battery, 4Mics ENx Tech, ASAP Charge, 13mm Drivers, 50 ms Low Latency, IPX5, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Shadow Black)",
+        "price_inr": 899,
+        "rating": 3.6,
+        "review_count": 118,
+        "features": {
+          "battery_life": "45 hours",
+          "driver_size": "13mm",
+          "microphones": "4 mics",
+          "water_resistance": "IP5",
+          "low_latency": "50ms",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 45H battery life for extended listening",
+          "Ultra-low 50ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "4-mic array with ENC for crystal-clear calls",
+          "13mm driver for rich, detailed sound"
+        ]
+      }
+    ],
+    "total_products": 4
+  },
+  {
+    "brand": "for",
+    "country_of_origin": "Unknown",
+    "products": [
+      {
+        "asin": "B0GQM82K4D",
+        "name": "for OnePlus Z2 Neckband Buds Bluetooth Lightweight Comfortable (Black) NB=JHDS",
+        "price_inr": 1299,
+        "rating": null,
+        "review_count": 0,
+        "features": {},
+        "why_buy": [
+          "Affordable wireless earbuds with Bluetooth connectivity"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "noot",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0GN99GNR7",
+        "name": "noot Products NP11 Wireless Bluetooth in-Ear Headphones with Mic, Volume & Remote Control IPX7 Sweatproof Earbuds for Sports, Running, Gym (B17)",
+        "price_inr": 1199,
+        "rating": null,
+        "review_count": 0,
+        "features": {
+          "water_resistance": "IP7"
+        },
+        "why_buy": [
+          "IP7 water resistance — safe for workouts and rain"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "pTron",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0GPWQLL24",
+        "name": "pTron Bassbuds Surge TWS Gaming Earbuds, 40ms Low-Latency, 50Hrs Playtime, Custom EQ, App Support, Dual Mic TruTalk AI-ENC Clear Calls, Pristine Sound, Bluetooth V6.0, IPX5 Water Resistant (Jet Black)",
+        "price_inr": 909,
+        "rating": 5.0,
+        "review_count": 3,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v6.0",
+          "water_resistance": "IP5",
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "IP5 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v6.0 for stable, efficient connection",
+          "Highly rated 5.0/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0GPW7S6CN",
+        "name": "pTron Bassbuds Trendz Open Ear Wireless Earbuds, SafeBeats Design, HD Mics & TruTalk AI-ENC Calls, 45Hrs Playtime, App Support, 14.2mm Drivers, BT6.0 Headphones, Type C Charging & IPX5 (Pearl Black)",
+        "price_inr": 809,
+        "rating": 5.0,
+        "review_count": 12,
+        "features": {
+          "battery_life": "45 hours",
+          "bluetooth_version": "v6.0",
+          "driver_size": "14.2mm",
+          "water_resistance": "IP5",
+          "enc": true
+        },
+        "why_buy": [
+          "Long 45H battery life for extended listening",
+          "IP5 water resistance — safe for workouts and rain",
+          "14.2mm driver for rich, detailed sound",
+          "Latest Bluetooth v6.0 for stable, efficient connection",
+          "Highly rated 5.0/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0GGQQ1B8H",
+        "name": "pTron Bassbuds Prism in-Ear TWS Ear Buds w/ 3D AudioScape, 45Hrs Playtime, TruTalk AI-ENC Calls, 50ms Low Latency Sync, BTv5.3, Snug-fit, Type-C Charging, Voice Asst. & IPX5 Water Resistant (Julep)",
+        "price_inr": 699,
+        "rating": 4.1,
+        "review_count": 97,
+        "features": {
+          "battery_life": "45 hours",
+          "bluetooth_version": "v5.3",
+          "water_resistance": "IP5",
+          "low_latency": "50ms",
+          "spatial_audio": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 45H battery life for extended listening",
+          "Ultra-low 50ms latency — ideal for gaming and video",
+          "Spatial/3D audio for an immersive sound experience",
+          "IP5 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Well-rated at 4.1/5 stars"
+        ]
+      },
+      {
+        "asin": "B0F62DV6PQ",
+        "name": "pTron Bassbuds Spark in-Ear TWS Earbuds with Stereo Sound, 40Hrs Playtime, Stereo Calls, Bluetooth V5.3 Headphones with Quick Pairing, Touch Control, Voice Assistant, Type C Charging & IPX5 (Blue)",
+        "price_inr": 596,
+        "rating": 4.0,
+        "review_count": 3783,
+        "features": {
+          "battery_life": "40 hours",
+          "bluetooth_version": "v5.3",
+          "water_resistance": "IP5",
+          "touch_controls": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "IP5 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 3,783+ reviews"
+        ]
+      },
+      {
+        "asin": "B0D78XSMSM",
+        "name": "pTron Bassbuds Astra in-Ear TWS Earbuds w/Stereo Sound, 34Hrs Playtime, Stereo Calls, Custom EQ, Mobile App, BTv5.3 Headphones, Touch Control, Voice Assistant, Type C Charging & IPX4 (Black)",
+        "price_inr": 596,
+        "rating": 4.0,
+        "review_count": 1963,
+        "features": {
+          "battery_life": "34 hours",
+          "bluetooth_version": "v5.3",
+          "water_resistance": "IP4",
+          "touch_controls": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Decent 34H playtime for daily commutes",
+          "IP4 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Well-rated at 4.0/5 stars",
+          "Popular choice with 1,963+ reviews"
+        ]
+      },
+      {
+        "asin": "B0DTJ67BMY",
+        "name": "pTron Tangent Evolve w/ 50Hrs Playtime, HD Mic, Pristine Sound, 14mm Drivers, Bluetooth V5.3 w/Dual-Device Pairing Wireless Neckband, Magnetic Buds, Voice Assistant,Type-C Fast Charging & IPX4(Black)",
+        "price_inr": 455,
+        "rating": 3.8,
+        "review_count": 1390,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "14mm",
+          "water_resistance": "IP4",
+          "fast_charging": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "IP4 water resistance — safe for workouts and rain",
+          "14mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Popular choice with 1,390+ reviews"
+        ]
+      },
+      {
+        "asin": "B0FWCPL8RK",
+        "name": "pTron Bassbuds Eon in-Ear TWS Earbuds w/ 13mm Drivers, 45Hrs Playtime, Dual HD Mic & TruTalk AI-ENC Calls, Custom EQ, Mobile App, Bluetooth v6.0 Headphones,Voice Assist., Type C Charging & IPX5 (Blue)",
+        "price_inr": 599,
+        "rating": 3.8,
+        "review_count": 626,
+        "features": {
+          "battery_life": "45 hours",
+          "bluetooth_version": "v6.0",
+          "driver_size": "13mm",
+          "water_resistance": "IP5",
+          "enc": true
+        },
+        "why_buy": [
+          "Long 45H battery life for extended listening",
+          "IP5 water resistance — safe for workouts and rain",
+          "13mm driver for rich, detailed sound",
+          "Latest Bluetooth v6.0 for stable, efficient connection"
+        ]
+      },
+      {
+        "asin": "B0G261Z2XB",
+        "name": "pTron Bassbuds Indie In-Ear TWS Earbuds w/ 10mm Drivers, 45Hrs Playtime, Dual HD Mic & AI-ENC Calls, Custom EQ, Mobile App, Bluetooth V5.4 Earphones, Voice Assistant, Type C Charging & IPX5(Jet Black)",
+        "price_inr": 599,
+        "rating": 3.7,
+        "review_count": 392,
+        "features": {
+          "battery_life": "45 hours",
+          "bluetooth_version": "v5.4",
+          "driver_size": "10mm",
+          "water_resistance": "IP5",
+          "enc": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Long 45H battery life for extended listening",
+          "IP5 water resistance — safe for workouts and rain",
+          "10mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.4 for stable, efficient connection"
+        ]
+      },
+      {
+        "asin": "B0FZC8CKPG",
+        "name": "pTron Tangent Rush w/ 50Hrs Playtime, Pristine Sound, Dual-Device Pairing, Bluetooth 5.4 Wireless in-Ear Earphones with Mic, Voice Assistant, Type-C Fast Charging & IPX5 Water Resistant (Forest Green)",
+        "price_inr": 497,
+        "rating": 3.6,
+        "review_count": 947,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.4",
+          "water_resistance": "IP5",
+          "fast_charging": true,
+          "voice_assistant": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v5.4 for stable, efficient connection"
+        ]
+      },
+      {
+        "asin": "B0FHF8NRQD",
+        "name": "pTron Tangentbeat V2 w/ 50Hrs Playtime, Pristine Sound, Dual-Device Pairing, Bluetooth 5.4 Wireless In-Ear Earphones with Mic, Hall Switch Feature, Magnetic Earbuds, Type-C Fast Charging & IPX5(Black)",
+        "price_inr": 599,
+        "rating": 3.5,
+        "review_count": 565,
+        "features": {
+          "battery_life": "50 hours",
+          "bluetooth_version": "v5.4",
+          "water_resistance": "IP5",
+          "fast_charging": true
+        },
+        "why_buy": [
+          "Long 50H battery life for extended listening",
+          "Fast charging — minimal downtime between uses",
+          "IP5 water resistance — safe for workouts and rain",
+          "Latest Bluetooth v5.4 for stable, efficient connection"
+        ]
+      }
+    ],
+    "total_products": 10
+  },
+  {
+    "brand": "realme",
+    "country_of_origin": "China",
+    "products": [
+      {
+        "asin": "B0F5GV3Y87",
+        "name": "realme Earbuds Air 7 True Wireless,12.4mm Dynamic Bass Drivers,52Hrs Playtime,52dB Hybrid ANC,6 Mic ENC,45ms Low Latency,360° Spatial Audio,Hi-Res LHDC,IP55 Dust & Water Resistant,BT v5.4(SlateGrey)",
+        "price_inr": 3299,
+        "rating": 4.3,
+        "review_count": 3407,
+        "features": {
+          "battery_life": "52 hours",
+          "noise_cancellation": "52db hybrid anc",
+          "bluetooth_version": "v5.4",
+          "microphones": "6 mics",
+          "water_resistance": "IP55",
+          "low_latency": "45ms",
+          "spatial_audio": true,
+          "enc": true,
+          "hi_res_audio": true
+        },
+        "why_buy": [
+          "Long 52H battery life for extended listening",
+          "Active Noise Cancellation (52db hybrid anc) blocks out distractions",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Spatial/3D audio for an immersive sound experience",
+          "Hi-Res audio (LDAC/LHDC) for studio-quality sound",
+          "IP55 water resistance — safe for workouts and rain",
+          "6-mic array with ENC for crystal-clear calls",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Highly rated 4.3/5 by customers",
+          "Popular choice with 3,407+ reviews"
+        ]
+      },
+      {
+        "asin": "B0DVC6MP1D",
+        "name": "realme Buds Wireless 3 Neo in Ear Bluetooth Neckband with 13.4 Mm Dynamic Bass Boost Driver,Upto 32 Hours Playback,Fast Charge,Ai Enc,45Ms Low Latency,Ip55 Dust&Water Resistannt&Bluetooth V 5.4 Black",
+        "price_inr": 1099,
+        "rating": 4.2,
+        "review_count": 2965,
+        "features": {
+          "battery_life": "32 hours",
+          "water_resistance": "IP55",
+          "low_latency": "45ms",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Decent 32H playtime for daily commutes",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "IP55 water resistance — safe for workouts and rain",
+          "Highly rated 4.2/5 by customers",
+          "Popular choice with 2,965+ reviews"
+        ]
+      },
+      {
+        "asin": "B0GDQ7Y8Q5",
+        "name": "realme Buds Air 8,11mm+6mm Dual Dynamic Bass Drivers,58 Hrs Playtime, 55dB ANC,6 Mic ENC, 45ms Low Latency, 360° Spatial Audio, Hi-Res LHDC, IP55 Dust & Water Resistant, BT v5.4 (Master Purple)",
+        "price_inr": 3799,
+        "rating": 4.2,
+        "review_count": 511,
+        "features": {
+          "battery_life": "58 hours",
+          "noise_cancellation": "55db anc",
+          "bluetooth_version": "v5.4",
+          "microphones": "6 mics",
+          "water_resistance": "IP55",
+          "low_latency": "45ms",
+          "spatial_audio": true,
+          "enc": true,
+          "hi_res_audio": true
+        },
+        "why_buy": [
+          "Long 58H battery life for extended listening",
+          "Active Noise Cancellation (55db anc) blocks out distractions",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Spatial/3D audio for an immersive sound experience",
+          "Hi-Res audio (LDAC/LHDC) for studio-quality sound",
+          "IP55 water resistance — safe for workouts and rain",
+          "6-mic array with ENC for crystal-clear calls",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Highly rated 4.2/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0DBGNY4XP",
+        "name": "realme Buds T310 True Wireless in-Ear Earbuds with 46dB Hybrid ANC, 360° Spatial Audio, 12.4mm Dynamic Bass Driver, Upto 40Hrs Battery and Fast Charging (Monet Purple)",
+        "price_inr": 1899,
+        "rating": 4.2,
+        "review_count": 7910,
+        "features": {
+          "battery_life": "40 hours",
+          "noise_cancellation": "46db hybrid anc",
+          "fast_charging": true,
+          "spatial_audio": true
+        },
+        "why_buy": [
+          "Long 40H battery life for extended listening",
+          "Active Noise Cancellation (46db hybrid anc) blocks out distractions",
+          "Fast charging — minimal downtime between uses",
+          "Spatial/3D audio for an immersive sound experience",
+          "Highly rated 4.2/5 by customers",
+          "Popular choice with 7,910+ reviews"
+        ]
+      },
+      {
+        "asin": "B0DNPWJLQC",
+        "name": "realme Buds Wireless 5 ANC in Ear Bluetooth Headphones,50dB ANC, 13.6mm Dynamic Bass Driver,360° Spatial Audio,45ms Low Latency,Upto 38hrs Playback,IP55 Rating,Dual Device Connection (Midnight Black)",
+        "price_inr": 1599,
+        "rating": 4.1,
+        "review_count": 91961,
+        "features": {
+          "battery_life": "38 hours",
+          "noise_cancellation": "50db anc",
+          "water_resistance": "IP55",
+          "low_latency": "45ms",
+          "spatial_audio": true,
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Decent 38H playtime for daily commutes",
+          "Active Noise Cancellation (50db anc) blocks out distractions",
+          "Ultra-low 45ms latency — ideal for gaming and video",
+          "Spatial/3D audio for an immersive sound experience",
+          "IP55 water resistance — safe for workouts and rain",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Well-rated at 4.1/5 stars",
+          "Trusted by 91,961+ buyers"
+        ]
+      }
+    ],
+    "total_products": 5
+  },
+  {
+    "brand": "soundcore",
+    "country_of_origin": "USA",
+    "products": [
+      {
+        "asin": "B0DCVLM12X",
+        "name": "soundcore by Anker R50i VI True Wireless Earbuds, 10mm Drivers with Big Bass, Bluetooth 5.3, 30H Long Playtime, Water-Resistant, 2 Mics for AI Clear Calls, 22 Preset EQs, Customization (White)",
+        "price_inr": 949,
+        "rating": 4.0,
+        "review_count": 279,
+        "features": {
+          "battery_life": "30 hours",
+          "bluetooth_version": "v5.3",
+          "driver_size": "10mm",
+          "microphones": "2 mics"
+        },
+        "why_buy": [
+          "Decent 30H playtime for daily commutes",
+          "Built-in 2 mics for hands-free calling",
+          "10mm driver for rich, detailed sound",
+          "Latest Bluetooth v5.3 for stable, efficient connection",
+          "Well-rated at 4.0/5 stars"
+        ]
+      }
+    ],
+    "total_products": 1
+  },
+  {
+    "brand": "truke",
+    "country_of_origin": "India",
+    "products": [
+      {
+        "asin": "B0FKBWTWZ8",
+        "name": "truke New Launch [2025] Mega 7 True Wireless in-Ear Earbuds w/ 24-Bit 360 Spatial Audio, 60H Playtime & Fast Charging Buds, Dual Pairing, 40ms Low Latency TWS, 4-Mic ENC, Made in India-(Coffee Brown)",
+        "price_inr": 999,
+        "rating": 4.2,
+        "review_count": 431,
+        "features": {
+          "battery_life": "60 hours",
+          "low_latency": "40ms",
+          "fast_charging": true,
+          "spatial_audio": true,
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Ultra-low 40ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "Spatial/3D audio for an immersive sound experience",
+          "Multipoint connection — pair with two devices simultaneously",
+          "Highly rated 4.2/5 by customers"
+        ]
+      },
+      {
+        "asin": "B0DVLHZXF9",
+        "name": "truke New Launch Buds Aura True Wireless in Ear Earbuds with 70Hrs of Playtime and Fast Charging Ear Buds, 13mm Titanium Drivers, Quad-MIC ENC TWS, 40ms Low Latency Gaming Buds, BT 5.4 (CarbonBlack)",
+        "price_inr": 699,
+        "rating": 4.1,
+        "review_count": 146,
+        "features": {
+          "battery_life": "70 hours",
+          "bluetooth_version": "v5.4",
+          "low_latency": "40ms",
+          "fast_charging": true,
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Exceptional 70H battery — great for all-day use",
+          "Ultra-low 40ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Well-rated at 4.1/5 stars"
+        ]
+      },
+      {
+        "asin": "B0F9T79LW6",
+        "name": "truke Newly Launched Buds Infinity Open Ear Wireless Earbuds with 70Hours of Playtime, 16mm Titanium Speaker, Quad Mic PureVoice™ ENC for Clear Calls, Dual Pairing, Fast Charging OWS - Royal Blue",
+        "price_inr": 1599,
+        "rating": 3.9,
+        "review_count": 646,
+        "features": {
+          "battery_life": "70 hours",
+          "fast_charging": true,
+          "enc": true,
+          "multipoint_connection": true
+        },
+        "why_buy": [
+          "Exceptional 70H battery — great for all-day use",
+          "Fast charging — minimal downtime between uses",
+          "Multipoint connection — pair with two devices simultaneously"
+        ]
+      },
+      {
+        "asin": "B0DVL9D7JD",
+        "name": "truke New Launch Buds Elite True Wireless in Ear Earbuds with 10mm Dynamic Driver, 70Hrs Battery & Fast Charging EarBuds, Dual-MIC ENC TWS, 40ms Low Latency Gaming Buds, Volume Control, BT 5.4 (Black)",
+        "price_inr": 699,
+        "rating": 3.9,
+        "review_count": 1289,
+        "features": {
+          "battery_life": "70 hours",
+          "bluetooth_version": "v5.4",
+          "low_latency": "40ms",
+          "fast_charging": true,
+          "enc": true,
+          "gaming_mode": true
+        },
+        "why_buy": [
+          "Exceptional 70H battery — great for all-day use",
+          "Ultra-low 40ms latency — ideal for gaming and video",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Popular choice with 1,289+ reviews"
+        ]
+      },
+      {
+        "asin": "B0D5R4L2XD",
+        "name": "truke Newly Launched Buds Liberty Open Ear Wireless Earbuds with 360Spatial™ Audio Experience, 16mm Beryllium Speaker, 60H Playtime, Quad Mic for Crystal-Clear Calls, Fast Charging, BT5.4",
+        "price_inr": 1799,
+        "rating": 3.8,
+        "review_count": 2044,
+        "features": {
+          "battery_life": "60 hours",
+          "bluetooth_version": "v5.4",
+          "fast_charging": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Exceptional 60H battery — great for all-day use",
+          "Fast charging — minimal downtime between uses",
+          "Latest Bluetooth v5.4 for stable, efficient connection",
+          "Popular choice with 2,044+ reviews"
+        ]
+      },
+      {
+        "asin": "B0GK269LVR",
+        "name": "truke TruClips Wireless Open Ear Buds with 55H Battery, 12mm Custom Drivers, Spatial Audio, Premium Leather Dual Form Design, Low Latency, Quad Mic ENC, Ambient Awareness, IPX5 - OnyxBlue",
+        "price_inr": 1999,
+        "rating": 3.5,
+        "review_count": 128,
+        "features": {
+          "battery_life": "55 hours",
+          "water_resistance": "IP5",
+          "spatial_audio": true,
+          "enc": true
+        },
+        "why_buy": [
+          "Long 55H battery life for extended listening",
+          "Spatial/3D audio for an immersive sound experience",
+          "IP5 water resistance — safe for workouts and rain"
+        ]
+      }
+    ],
+    "total_products": 6
+  }
+]
