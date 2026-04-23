@@ -1,6 +1,7 @@
 # Web Scraping
 beautifulsoup4==4.12.3
 selenium==4.18.1
+undetected-chromedriver==3.5.4
 requests==2.31.0
 lxml==5.1.0
 

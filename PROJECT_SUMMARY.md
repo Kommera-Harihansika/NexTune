@@ -68,19 +68,47 @@
 - ✅ Feature scaling with StandardScaler
 - ✅ Ready to save processed dataset to `data/processed_data.csv`
 
+### Step 7: Additional Scraping & Data Integration ✓
+- ✅ Created `amazon_scraper.py` with stealth mode (undetected-chromedriver)
+- ✅ Integrated `nexttune-cleaned-data.csv` (33 new products)
+- ✅ Created `merge_datasets.py` to combine all data sources
+- ✅ Merged datasets with deduplication:
+  - Total: 79 unique products
+  - 53 unique brands
+  - 4 categories (TWS, Over-Ear, Neckband, Unknown)
+  - Price range: ₹225 - ₹29,999
+  - Average rating: 4.08/5.0
+- ✅ Enhanced feature extraction for new data
+- ✅ Updated requirements.txt with new dependencies
+
 ## 📊 Dataset Statistics
 
-**Total Records:** 296
-**Sources:** 3 (Amazon raw, Indian market, Market data)
+**Total Records:** 79 (after deduplication)
+**Sources:** 4 (Amazon raw, Indian market, Market data, NexTune cleaned)
+**Unique Brands:** 53
 **Features for Modeling:** 14 (after engineering and encoding)
 
+**Price Range:** ₹225 - ₹29,999
+**Average Rating:** 4.08/5.0
+
+**Top Brands:**
+- Aroma: 11 products
+- FRONY: 8 products
+- Boat: 2 products
+
+**Categories:**
+- Over-Ear Headphones: 34 products (43%)
+- True Wireless Earbuds: 20 products (25%)
+- Neckband: 10 products (13%)
+- Unknown: 15 products (19%)
+
 **Completeness:**
-- Battery life: 87.2%
-- Bluetooth version: 85.8%
-- Driver size: 84.8%
-- Category: 100%
+- Battery life: 44.3%
+- Bluetooth version: 7.6%
+- Driver size: 3.8%
+- Category: 81% (15 unknown)
 - Price: 100%
-- Rating: 95.3%
+- Rating: 100%
 
 **Features Extracted:** 18
 **Normalizations Applied:** 1,059
@@ -99,8 +127,10 @@ bluetooth-headphones-price-prediction/
 │   ├── headphones-raw.csv
 │   ├── indian-wireless-headphones-scraped-data.csv
 │   ├── amazon-earphones-market-data.csv
+│   ├── nexttune-cleaned-data.csv
 │   ├── combined-headphones-dataset.csv
-│   └── enhanced-headphones-dataset.csv
+│   ├── enhanced-headphones-dataset.csv
+│   └── final-merged-dataset.csv   # Latest merged dataset
 ├── src/                           # Source code
 │   ├── __init__.py
 │   ├── data/                      # Data preparation module
@@ -108,11 +138,13 @@ bluetooth-headphones-price-prediction/
 │   │   └── preparation.py         # DataPreparation class
 │   └── scrapers/
 │       ├── __init__.py
-│       └── enhanced_scraper.py    # Enhanced scraper with prompt engineering
+│       ├── enhanced_scraper.py    # Enhanced scraper with prompt engineering
+│       └── amazon_scraper.py      # Amazon scraper with stealth mode
 ├── models/                        # Trained models (to be added)
 ├── notebooks/                     # Jupyter notebooks
 │   └── eda_analysis.ipynb         # EDA & data preparation notebook
-├── scripts/                       # Execution scripts (to be added)
+├── scripts/                       # Execution scripts
+│   └── merge_datasets.py          # Dataset merger script
 ├── tests/                         # Test files (to be added)
 ├── README.md                      # Comprehensive project documentation
 ├── CONTRIBUTING.md                # Development guidelines
@@ -140,5 +172,14 @@ bluetooth-headphones-price-prediction/
 
 ---
 
-**Status:** ✅ Steps 1-3 Complete (60%) | 🔄 Steps 4-5 Pending (40%)
+**Status:** ✅ Steps 1-3 Complete (70%) | 🔄 Steps 4-5 Pending (30%)
 **Last Updated:** 2026-04-23
+
+## 🔗 GitHub Repository
+
+**Repository:** https://github.com/ESpoorthy/NexTune
+**Branch:** main
+**Latest Commits:** 
+- feat: Add Amazon scraper and dataset merger
+- feat: Add EDA notebook and data preparation pipeline
+- feat: Initial project setup with enhanced scraping
