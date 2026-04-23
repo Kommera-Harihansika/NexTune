@@ -1,0 +1,2 @@
+# This file ensures the scripts directory is tracked by git
+# Execution scripts for scraping, training, and deployment will be stored here
